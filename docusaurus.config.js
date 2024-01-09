@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Data Connector',
+  title: 'Data Connector 2',
   tagline: 'expand your horizon',
   favicon: 'img/favicon.ico',
 
