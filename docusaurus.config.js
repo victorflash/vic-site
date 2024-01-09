@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Data Connector 2',
+  title: 'Data Connector',
   tagline: 'expand your horizon',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://victorflash.github.io/vic-site/',
+  //url: 'https://victorflash.github.io/vic-site/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/vic-site/',
